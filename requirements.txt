@@ -1,0 +1,5 @@
+# publish.py
+jupytext
+# plot_complex.py
+numpy
+pyvista
